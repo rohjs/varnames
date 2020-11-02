@@ -12,9 +12,11 @@
 | set |
 | find |
 | search |
+| query |
 | identify |
 | locate |
 | catch |
+| capture |
 | pick |
 | match |
 | create |
@@ -57,14 +59,25 @@
 | reject |
 | replace |
 | exchange |
+| change |
+| alter |
+| modify |
+| edit |
+| adjust |
+| transform |
+| revise |
 | merge |
 | combine |
+| integrate |
 | attach |
 | link |
+| tune |
 | eliminate |
 | request |
+| respond |
 | sort |
 | arrange |
+| organize |
 | categorize |
 | order |
 | reorder |
@@ -79,10 +92,15 @@
 | inspect |
 | verify |
 | authenticate |
+| signIn |
+| signUp |
+| logIn |
+| logOut |
 | sumUp |
 | calculate |
 | render |
 | compile |
+| draw |
 | execute |
 | parse |
 | encode |
@@ -93,6 +111,10 @@
 | register |
 | show |
 | display |
+| move |
+| disorder |
+| spread |
+| arrange |
 | hide |
 | watch |
 | observe |
@@ -107,3 +129,84 @@
 | trim |
 | collect |
 | copy |
+| duplicate |
+| clone |
+| stringify |
+| submit |
+| send |
+| toggle |
+
+
+## Nouns
+
+| Word | Meaning | Examples |
+| --- | --- | --- |
+| list |
+| page |
+| view |
+| mode |
+| action |
+| order |
+| payment |
+| property |
+| attribute |
+| array |
+| item |
+| location |
+| history |
+| auth |
+| user |
+| currentUser |
+| session |
+| timeout |
+| status |
+| index |
+| key |
+| value |
+| sum |
+| diff |
+| counterpart |
+| match |
+| error |
+| reason |
+| legend |
+| chart |
+| canvas |
+| data |
+| request |
+| response |
+| context |
+| url |
+| pathname |
+| query |
+| element |
+| component |
+| modal |
+| popUp |
+| prompt |
+| notification |
+| toast |
+| alert |
+| input |
+| button |
+
+## Adjectives
+
+| Word | Meaning | Examples |
+| --- | --- | --- |
+| mapped |
+| rendered |
+| copied |
+| cloned |
+| duplicated |
+| authenticated |
+| validated |
+| valid |
+| invalid |
+| empty |
+| match |
+| formatted |
+| stringified |
+| parsed |
+| post |
+| pre |
