@@ -135,7 +135,7 @@
 | submit |
 | send |
 | toggle |
-
+| load |
 
 ## Nouns
 
@@ -173,6 +173,7 @@
 | chart |
 | canvas |
 | data |
+| content |
 | request |
 | response |
 | context |
@@ -189,6 +190,7 @@
 | alert |
 | input |
 | button |
+| form |
 
 ## Adjectives
 
