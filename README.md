@@ -152,8 +152,6 @@
 | attribute |
 | array |
 | item |
-| location |
-| history |
 | auth |
 | user |
 | currentUser |
@@ -174,11 +172,14 @@
 | canvas |
 | data |
 | content |
+| body |
 | request |
 | response |
 | context |
 | url |
 | pathname |
+| location |
+| history |
 | query |
 | element |
 | component |
@@ -191,6 +192,9 @@
 | input |
 | button |
 | form |
+| target |
+| filter |
+| store |
 
 ## Adjectives
 
@@ -212,3 +216,11 @@
 | parsed |
 | post |
 | pre |
+| previous |
+| next |
+| mounted |
+| active |
+| current |
+| filtered |
+| memoized |
+| cached |
