@@ -136,6 +136,10 @@
 | send |
 | toggle |
 | load |
+| start |
+| track |
+| initiate |
+| introduce |
 
 ## Nouns
 
