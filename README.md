@@ -4,36 +4,35 @@
 
 | Word | Meaning | Examples |
 | --- | --- | --- |
-| get |
-| extract |
-| sample |
-| select |
-| read |
-| set |
-| find |
-| search |
+| get | 얻다 | `getUserId`, `getToken` |
+| extract | 추출하다 | `extractUserData`, `extractPastHistory`, `extractCurrentUsers` |
+| select | 고르다 |
+| pick | 골라내다 |
+| read | (파일, 데이터를) 읽다 | `readFile`, `readResObject`
+| set | 지정하다
+| find | (보통 1개) 찾다 |
+| search | 찾다
 | query |
-| identify |
-| locate |
-| catch |
-| capture |
-| pick |
-| match |
-| create |
-| make |
-| generate |
-| produce |
-| instantiate |
-| build |
-| add |
-| push |
-| increase |
-| sum |
+| locate | (위치를) 찾다 |
+| catch | (에러를) 핸들하다 |
+| create | (없던 것을) 생성하다 |
+| make | 만들다
+| generate | (대량으로) 생성하다 |
+| produce | 생산하다
+| build | (최종 결과물로) 만들다 |
+| add | (기존에 있던 것에) 추가하다
+| push | (배열에) 추가하다 |
+| increase | (값을) 늘이다 |
+| sum | (값을) 합치다
 | delete |
-| destroy |
+| destroy | 끝장내다, 끝내다 |
+| terminate |
+| exit |
 | clear |
 | decrease |
 | remove |
+| withdraw |
+| pullOut |
 | erase |
 | abolish |
 | stop |
@@ -43,9 +42,9 @@
 | cut |
 | separate |
 | break |
-| split |
-| decouple |
-| disjoin |
+| split | (배열을) 쪼개다 |
+| decouple | (하나의 세트였던 것을) 쪼개다 |
+| disjoin | (연결을) 쪼개다 |
 | distribute |
 | connect |
 | join |
@@ -68,6 +67,7 @@
 | revise |
 | merge |
 | combine |
+| map |
 | integrate |
 | attach |
 | link |
@@ -139,7 +139,11 @@
 | start |
 | track |
 | initiate |
+| initialize |
 | introduce |
+| throw |
+| cancel |
+|
 
 ## Nouns
 
