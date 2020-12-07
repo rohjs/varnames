@@ -6,19 +6,19 @@
 | --- | --- | --- |
 | get | 얻다 | `getUserId`, `getToken` |
 | extract | 추출하다 | `extractUserData`, `extractPastHistory`, `extractCurrentUsers` |
-| select | 고르다 |
+| select | (체계적으로) 선정하다 |
 | pick | 골라내다 |
 | read | (파일, 데이터를) 읽다 | `readFile`, `readResObject`
 | set | 지정하다
 | find | (보통 1개) 찾다 |
-| search | 찾다
+| search | 찾다 |
 | query |
 | locate | (위치를) 찾다 |
 | catch | (에러를) 핸들하다 |
-| create | (없던 것을) 생성하다 |
-| make | 만들다
+| create | (없던 것을) 생성하다 | `createUser`
+| make | 만들다 |
 | generate | (대량으로) 생성하다 |
-| produce | 생산하다
+| produce | 생산하다 |
 | build | (최종 결과물로) 만들다 |
 | add | (기존에 있던 것에) 추가하다
 | push | (배열에) 추가하다 |
@@ -26,22 +26,22 @@
 | sum | (값을) 합치다
 | delete |
 | destroy | 끝장내다, 끝내다 |
-| terminate |
-| exit |
-| clear |
+| terminate | (완전히) 종료하다 | `terminateProcess`, `terminateConnection`
+| exit | 종료하다 | `exitProcess`
+| clear | (새로 시작할 수 있도록) 깨끗이 끝내다 |
 | decrease |
 | remove |
+| dispose |
 | withdraw |
 | pullOut |
 | erase |
-| abolish |
-| stop |
-| freeze |
-| hold |
+| stop | 멈추다 |
+| freeze | (잠시) 중지시키다 |
+| hold | 막다 |
 | prevent |
-| cut |
-| separate |
-| break |
+| cut | 잘라내다, 도려내다 |
+| separate | 분리시키다 |
+| break | (억지로, 문자를) 쪼개다 |
 | split | (배열을) 쪼개다 |
 | decouple | (하나의 세트였던 것을) 쪼개다 |
 | disjoin | (연결을) 쪼개다 |
