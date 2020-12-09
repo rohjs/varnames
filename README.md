@@ -31,14 +31,13 @@
 | clear | (새로 시작할 수 있도록) 깨끗이 끝내다 |
 | decrease |
 | remove |
-| dispose |
-| withdraw |
+| dispose | 처분하다 |
+| withdraw | 철폐하다 |
 | pullOut |
-| erase |
+| erase | (텍스트를?) 지우다 |
 | stop | 멈추다 |
 | freeze | (잠시) 중지시키다 |
 | hold | 막다 |
-| prevent |
 | cut | 잘라내다, 도려내다 |
 | separate | 분리시키다 |
 | break | (억지로, 문자를) 쪼개다 |
@@ -46,11 +45,8 @@
 | decouple | (하나의 세트였던 것을) 쪼개다 |
 | disjoin | (연결을) 쪼개다 |
 | distribute |
-| connect |
-| join |
-| connect |
-| couple |
-| unite |
+| connect | (관련없는 것들을) 연결하다 |
+| join | (텍스트를) 합치다 |
 | mix |
 | update |
 | resolve |
